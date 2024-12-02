@@ -47,9 +47,9 @@ I am a passionate developer and researcher with a background in **Physics** and 
 
 ## 🌐 Connect with Me
 
-📧 Email: f20212797@pilani.bits-pilani.ac.in  
+📧 Email: f20212797@pilani.bits-pilani.ac.in
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-64178622a)  
-![3D Contribution Calendar](https://github.com/Priyanshushekhar10/Priyanshushekhar10e/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshushekhar10&style=flat-square&color=blue)
 
