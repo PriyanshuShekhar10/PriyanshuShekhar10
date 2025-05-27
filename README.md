@@ -4,46 +4,6 @@ I am a passionate developer and researcher with a background in **Physics** and 
 
 ---
 
-## 💡 About Me
-
-- 🔭 Actively working on projects in **Web Development**, **UI/UX Design**, and **Machine Learning**.
-- 🌱 Exploring advanced topics in **React.js, Node.js**, and **Machine Learning** for practical applications.
-- 🏆 Participated in national-level hackathons and challenges, earning recognition for innovative solutions.
-
----
-
-### Programming Languages
-- **Python**, **JavaScript**, **C++**, **TypeScript**
-- **HTML**, **CSS**, **SQL**
-
-### Frameworks & Tools
-- **React.js**, **Node.js**, **Express.js**, **Next.js**
-- **MongoDB**, **PostgreSQL**, **SQLite**
-- **QGIS**, **Matplotlib**, **Pandas**
-- **Machine Learning**: Logistic Regression, Decision Trees, Ensemble Models
-- **UI/UX Design**: Figma, Adobe XD, Adobe Photoshop, Blender
-
-### Areas of Interest
-- Full-Stack Development
-- Data Analysis and Visualization
-- AI and Machine Learning
-- Scalable and Efficient System Design
-
-### Areas of Expertise
-- Web Development
-- Computational Physics and Simulations
-- Supply Chain Optimization
-- Machine Learning
-
----
-
-## 🏆 Achievements
-
-- **National-Level ML Challenge**: Achieved top rankings among tens of thousands of participants.
-- **Hackathon Recognition**: Multiple wins and accolades for innovative solutions in competitive events.
-
----
-
 
 ## 🌐 Connect with Me
 
